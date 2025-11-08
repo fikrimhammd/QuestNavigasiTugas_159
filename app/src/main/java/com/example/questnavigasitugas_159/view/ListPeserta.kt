@@ -23,8 +23,8 @@ fun ListPeserta(
     onBackToHome: () -> Unit
 ) {
     val items = listOf(
-        Peserta(nama = "Gibran Fathoni", jenisKelamin = "Laki-laki", statusPerkawinan = "Kawin", alamat = "Sleman"),
-        Peserta(nama = "Aprilia Kurnianti", jenisKelamin = "Perempuan", statusPerkawinan = "Lajang", alamat = "Bantul")
+        Peserta(nama = "Dzulfikri", jenisKelamin = "Laki-laki", statusPerkawinan = "Lajang", alamat = "Cikarang"),
+        Peserta(nama = "Naila Rifka", jenisKelamin = "Perempuan", statusPerkawinan = "Lajang", alamat = "Yogyakarta")
     )
 
 
