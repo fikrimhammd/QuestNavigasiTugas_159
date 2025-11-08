@@ -1,12 +1,13 @@
 # Beranda
-<img width="222" height="532" alt="Screenshot 2025-11-08 154203" src="https://github.com/user-attachments/assets/c8eaf764-f229-491e-9a78-b4dddd4dfa91" />
+<img width="1080" height="2160" alt="Screenshot_20251108_155726" src="https://github.com/user-attachments/assets/6b596a3f-2234-406f-a118-d84b144bd9aa" />
 
 # List Peserta
-<img width="235" height="525" alt="Screenshot 2025-11-08 154221" src="https://github.com/user-attachments/assets/f80c1203-92c3-41a0-ad26-a21f2e7ea8b9" />
+<img width="1080" height="2160" alt="Screenshot_20251108_155613" src="https://github.com/user-attachments/assets/72b70b1b-a424-4e7e-ae84-610eb287e79d" />
 
 # Formulir Pendaftaran
-<img width="240" height="531" alt="Screenshot 2025-11-08 154310" src="https://github.com/user-attachments/assets/16f75499-3ca0-496e-ad40-b303932fa509" />
+<img width="1080" height="2160" alt="Screenshot_20251108_155903" src="https://github.com/user-attachments/assets/b749bea0-71a1-4696-abf6-85a92faed3f1" />
 
 # Data Berhasil Disimpan
-<img width="236" height="526" alt="Screenshot 2025-11-08 154422" src="https://github.com/user-attachments/assets/0c61ad17-74ae-41bf-916b-1a64440e687b" />
+<img width="1080" height="2160" alt="Screenshot_20251108_155850" src="https://github.com/user-attachments/assets/42cc32b6-0903-4c88-b645-144388b73044" />
+
 
