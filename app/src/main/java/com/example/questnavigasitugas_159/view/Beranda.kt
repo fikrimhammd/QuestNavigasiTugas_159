@@ -38,7 +38,7 @@ fun Beranda(onMasuk: () -> Unit) {
             Text(text = "Muhammad Dzulfikri\n20230140159")
             Spacer(modifier = Modifier.height(32.dp))
             Button(onClick = onMasuk) {
-                Text(text = stringResource(id = R.string.submit))
+                Text(text = stringResource(id = R.string.masuk))
             }
         }
     }
