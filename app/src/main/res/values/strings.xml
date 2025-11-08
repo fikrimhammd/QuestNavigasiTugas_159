@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuestNavigasiTugas_159</string>
+    <string name="app_name">Navigasiku</string>
+    <string name="home">Beranda</string>
+    <string name="tampil">Tampil Data</string>
+    <string name="submit">Submit</string>
+    <string name="back">Kembali</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="list_daftar_peserta">List Daftar Peserta</string>
+    <string name="status_perkawinan">Status Perkawinan</string>
+    <string name="beranda">Beranda</string>
+    <string name="formulir">Formulir</string>
+    <string name="data_berhasil_disimpan">Data Berhasil Disimpan</string>
+    <string name="ok">OK</string>
+</resources>
