@@ -9,13 +9,13 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 
+
 enum class Navigasi {
     Beranda,
     Formulirku,
     ListPeserta,
     Detail
 }
-
 
 @Composable
 fun DataApp() {

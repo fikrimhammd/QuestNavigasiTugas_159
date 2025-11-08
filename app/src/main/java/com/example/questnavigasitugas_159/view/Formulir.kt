@@ -156,7 +156,7 @@ fun FormIsian(
             },
             confirmButton = {
                 Button(onClick = {
-                    // simpan dan close dialog
+
                     OnSubmitBtnClick(dialogPeserta.value!!)
                     showDialog.value = false
                 }) {
